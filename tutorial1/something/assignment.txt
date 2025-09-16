@@ -1,0 +1,115 @@
+//assignment1
+Build a program that:
+
+Welcomes the user with an alert.
+
+Asks for the user’s name with a prompt.
+
+Shows a menu of products using switch (e.g., 1 = Apple 🍎, 2 = Banana 🍌, 3 = Orange 🍊).
+
+Uses prompt to let the user pick a product.
+
+Asks for the quantity.
+
+Uses operators to calculate the total price.
+
+Shows the total with alert.
+
+Asks with confirm if they want to checkout.
+
+If yes, say “Thank you, [name], your order is confirmed!”
+
+If no, say “Order canceled.”
+
+Use if/else for decisions (valid choice, checkout confirmation).
+
+Output the result in console.log and document.write too.
+
+
+classwork 1
+Task:
+
+Start with a welcome alert → "Welcome to Simple ATM".
+
+Ask for the user’s PIN (use a variable correctPin = 1234).
+
+If pin is wrong → show "Access Denied" and stop program.
+
+If pin is correct → continue.
+
+Set a starting balance (e.g., balance = 1000).
+
+Use a switch to show ATM menu:
+
+1 = Check Balance
+
+2 = Deposit Money
+
+3 = Withdraw Money
+
+4 = Exit
+
+Based on choice:
+
+If Check Balance → show balance.
+
+If Deposit → ask how much, add to balance.
+
+If Withdraw → ask how much, subtract from balance (but first check if enough money).
+
+If Exit → show "Thank you for banking with us!".
+
+Use a confirm at the end → “Do you want another transaction?”
+
+If yes → repeat menu.
+
+If no → show "Goodbye!".
+
+////assignmement 2
+
+
+results
+
+🎯 Task:
+
+Build a program that:
+
+Greets the student with an alert.
+
+Asks for student name with a prompt.
+
+Uses an array to store subjects (e.g., ["Math", "English", "Science"]).
+
+Loops through the array and uses prompt to ask for each score.
+
+Stores scores in another array (e.g., [80, 90, 70]).
+
+Uses operators to calculate:
+
+total score
+
+average score
+
+Uses if/else to decide grade:
+
+≥ 70 = A
+
+≥ 60 = B
+
+≥ 50 = C
+
+≥ 40 = D
+
+< 40 = F
+
+Uses a switch to let the student choose grading system:
+
+1 = Standard (A–F as above)
+
+2 = Pass/Fail (≥ 50 = Pass, else Fail)
+
+Uses confirm to ask if student wants to see results.
+
+If yes → show results in alert, console.log, and document.write
+
+If no → say “Results hidden.”

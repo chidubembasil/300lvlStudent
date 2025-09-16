@@ -1,0 +1,36 @@
+📝 Assignments
+1. Assignment: Profile Card Layout (Flexbox + Fonts + Backgrounds)
+
+Create a profile card with:
+
+A profile picture (circle).
+
+Name + short bio.
+
+Two buttons: "Follow" and "Message".
+
+Use Flexbox to align items vertically and horizontally.
+
+Use different fonts for name (e.g., bold Google font) and bio (lighter).
+
+Set a background color for the card (soft gradient).
+
+Add a hover effect → button changes background color.
+
+2. Assignment: Product Grid (CSS Grid + Selectors)
+
+Make a 3x2 product grid.
+
+Each product has: image, title, price, and a “Buy Now” button.
+
+Use CSS Grid to arrange them.
+
+Use selectors:
+
+nth-child(even) → give even products a different background color.
+
+.product:hover → change border on hover.
+
+#special → highlight one product differently (ID selector).
+
+Use different fonts for titles and prices.
